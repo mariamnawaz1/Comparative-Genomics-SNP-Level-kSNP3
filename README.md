@@ -1,5 +1,5 @@
 # Comparative-Genomics-SNP-Level(kSNP3)
-Script to perform Single Nucleotide Polymorphism (SNP) level comparative genomics using kSNP v3.1
+Script to perform Single Nucleotide Polymorphism (SNP) level comparative genomics using kSNP [v3.1](https://sourceforge.net/projects/ksnp/)
 
 **Usage:**
 ```
