@@ -4,8 +4,6 @@
 # command ./ksnp_script.py -i /path/to/directory/having/contig_sequence/sub_directories -o /path/to/output/directory -c core[optional; by default = 1] 
 
 import subprocess
-import sys
-import re
 import argparse
 import os
 
