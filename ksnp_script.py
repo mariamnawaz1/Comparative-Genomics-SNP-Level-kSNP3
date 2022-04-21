@@ -8,7 +8,7 @@ import argparse
 import os
 
 
-parser = argparse.ArgumentParser(description="Skesa Genome Assembly")
+parser = argparse.ArgumentParser(description="Script to run kSNP on assembled sequences")
 parser.add_argument("-i", "--inputpath", help="path to the directory that has all the assembled genomes as sub-directories", required=True)
 parser.add_argument("-o", "--outputpath", help="path to the directory that will store the results", required=True)
 parser.add_argument("-c", "--cores", help="number of cores; by default = 1", type=str, default="1")
